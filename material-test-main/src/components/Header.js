@@ -4,9 +4,9 @@ const useStyles = makeStyles(() => ({
   greet: {
     padding: "1.2rem 0",
     display: "flex",
-    "justify-content": "center",
+    justifyContent: "center",
     font: "bolder 2.2rem Arial, sans-serif",
-    "background-color": "rgb(5, 187, 187)",
+    backgroundColor: "#466D1D",
     color: "white",
     "& > *": {
       "max-width": "50rem",
